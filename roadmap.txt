@@ -1,0 +1,17 @@
+Products Collection -->       makeup--> lipsticks, body, 
+					food -->  drinks, mixture, veg, non-veg,
+					cloths --> jackets, girls' dresses, boys' dress
+					shoes--> kids, girls, boys,
+					electronic--> mobile, laptop, machine,
+					jewelry -->  neckless, earrings, bracelets, bangles, rings
+					
+
+filtering --> color, category, pagination, size, price, rating, searching.
+
+
+users--> first name, Lastname, email, address, password, cart, wishlist, order-details-collection.
+
+authentication --> login signup, token, user data, forget-password, token-expire, password hash, google authentication
+
+
+					
